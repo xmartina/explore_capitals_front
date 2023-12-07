@@ -1,3 +1,5 @@
+<?php require_once ('../include/config.php'); ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,11 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="TfF30Aiq6Xru76A471los5uWsgMzrzPlIyCgXOG2">
 
-    <link rel="shortcut icon" type="image/png" href="/asset/theme1/images/icon/icon.jpg">
+    <link rel="shortcut icon" type="image/png" href="/asset/front/img/favicon.png">
 
     <title>
-        Hyipmax-
-        Home
+        Home | <?= siteName | siteTag ?>
     </title>
     <link rel="stylesheet" href="/asset/theme1/frontend/css/cookie.css">
     <link href="/asset/common/css/bootstrap.min.css" rel="stylesheet">
