@@ -6,19 +6,19 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="csrf-token" content="TfF30Aiq6Xru76A471los5uWsgMzrzPlIyCgXOG2">
 
-    <link rel="shortcut icon" type="image/png" href="asset/theme1/images/icon/icon.jpg">
+    <link rel="shortcut icon" type="image/png" href="/asset/theme1/images/icon/icon.jpg">
 
     <title>
         Hyipmax-
         Home
     </title>
-    <link rel="stylesheet" href="asset/theme1/frontend/css/cookie.css">
-    <link href="asset/common/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="asset/common/css/animate.min.css">
-    <link rel="stylesheet" href="asset/common/css/slick.css">
-    <link rel="stylesheet" href="asset/common/css/font-awsome.min.css">
-    <link rel="stylesheet" href="asset/common/css/iziToast.min.css">
-    <link href="asset/theme1/frontend/css/style.css" rel="stylesheet">
+    <link rel="stylesheet" href="/asset/theme1/frontend/css/cookie.css">
+    <link href="/asset/common/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/asset/common/css/animate.min.css">
+    <link rel="stylesheet" href="/asset/common/css/slick.css">
+    <link rel="stylesheet" href="/asset/common/css/font-awsome.min.css">
+    <link rel="stylesheet" href="/asset/common/css/iziToast.min.css">
+    <link href="/asset/theme1/frontend/css/style.css" rel="stylesheet">
 
     <style>
         .tradingview-widget-container {
@@ -37,7 +37,7 @@
     </style>
 
 
-    <link rel="stylesheet" href="asset/theme1/frontend/css/color.php?primary_color=d77600">
+    <link rel="stylesheet" href="/asset/theme1/frontend/css/color.php?primary_color=d77600">
 </head>
 
 

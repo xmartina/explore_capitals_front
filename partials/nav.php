@@ -1,18 +1,15 @@
 <header id="header" class="fixed-top ">
     <div class="container d-flex align-items-center justify-content-lg-between">
 
-        <div class="logo me-auto me-lg-0"><a href="index.htm">
+        <div class="logo me-auto me-lg-0"><a href="/">
                 <span>
-
-                                            <img class="img-fluid rounded sm-device-img text-align"
-                                                 src="asset/theme1/images/logo/logo.png" width="100%" alt="pp">
-
+                    <img class="img-fluid rounded sm-device-img text-align" src="/asset/front/img/logo.png" width="100%" alt="pp">
                 </span>
             </a>
         </div>
         <nav id="navbar" class="navbar order-last order-lg-0">
             <ul>
-                <li class="active"><a class="nav-link" href="index.htm">Home</a></li>
+                <li class="active"><a class="nav-link" href="/">Home</a></li>
                 <li><a class="nav-link" href="investment/plan.html">Investment plans</a>
                 </li>
 
