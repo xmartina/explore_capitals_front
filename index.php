@@ -1,4 +1,5 @@
 <?php
+ini_set('error_log', 'error_log/home-error.log');
 require_once ('partials/header.php'); ?>
 
 <main id="main" class="main-img">
