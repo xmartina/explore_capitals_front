@@ -1,4 +1,7 @@
-<?php require_once ('../include/config.php'); ?>
+<?php
+error_reporting(E_ALL);
+ini_set('log_errors', 1);
+require_once ('../include/config.php'); ?>
 
 <!DOCTYPE html>
 <html lang="en">
