@@ -1,0 +1,26 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+
+    # If your website is in a subfolder, change the path below
+    # RewriteBase /your-subfolder/
+
+    # Redirect all requests to the index.php file
+    RewriteCond %{REQUEST_FILENAME} !-f
+    RewriteCond %{REQUEST_FILENAME} !-d
+    RewriteRule ^ index.php [L]
+</IfModule>
+
+# Disable directory listing
+Options -Indexes
+
+# Protect the .htaccess file itself
+<Files .htaccess>
+    Order Allow,Deny
+    Deny from all
+</Files>
+
+# Disable server signature
+ServerSignature Off
+
+# Set the default charset
+AddDefaultCharset UTF-8
