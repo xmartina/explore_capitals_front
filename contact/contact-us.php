@@ -12,6 +12,7 @@
             <div class="col-lg-12">
                 <form action="https://formsubmit.co/contact@explorecapitals.online" method="post" role="form" class="php ">
                     <input type="hidden" name="_next" value="http://explorecapitals.online/contact/form-success.php">
+                    <input type="hidden" name="_captcha" value="false">
                     <div class="row">
                         <div class="col-md-6 form-group">
                             <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required="">
