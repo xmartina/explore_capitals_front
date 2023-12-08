@@ -2,7 +2,6 @@
 ini_set('error_log', rootUrl.'error_log/home-error.log');
 require_once ('partials/header.php'); ?>
 
-<main id="main" class="main-img">
 
     <?php
         require_once ('home/banner.php');
@@ -23,5 +22,4 @@ require_once ('partials/header.php'); ?>
 
     ?>
 
-</main>
 <?php require_once ('partials/footer.php');

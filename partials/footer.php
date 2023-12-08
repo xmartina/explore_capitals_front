@@ -1,4 +1,4 @@
-
+</main>
 <footer class="footer-section has-bg-img">
     <div class="footer-logo-portion">
         <div class="container">
