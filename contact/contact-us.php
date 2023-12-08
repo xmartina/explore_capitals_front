@@ -13,6 +13,7 @@
                 <form action="https://formsubmit.co/contact@explorecapitals.online" method="post" role="form" class="php ">
                     <input type="hidden" name="_next" value="http://explorecapitals.online/contact/form-success.php">
                     <input type="hidden" name="_captcha" value="false">
+                    <input type="hidden" name="_autoresponse" value="Thank you for your message, we will get in torch shortly">
                     <div class="row">
                         <div class="col-md-6 form-group">
                             <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required="">
