@@ -16,7 +16,7 @@
 
                 <div class="col-lg-2 text-center">
                     <a href="index.htm" class="footer-logo">
-                        <img class="img-fluid rounded sm-device-img text-align" src="asset/theme1/images/logo/logo.png"
+                        <img class="img-fluid rounded sm-device-img text-align" src="/asset/theme1/images/logo/logo.png"
                              width="100%" alt="pp">
                     </a>
                 </div>
@@ -69,11 +69,11 @@
     <i class="fas fa-arrow-up text-light"></i>
 </button>
 
-<script src="asset/common/js/jquery.min.js"></script>
-<script src="asset/common/js/bootstrap.bundle.min.js"></script>
-<script src="asset/common/js/slick.min.js"></script>
-<script src="asset/common/js/iziToast.min.js"></script>
-<script src="asset/theme1/frontend/js/main.js"></script>
+<script src="/asset/common/js/jquery.min.js"></script>
+<script src="/asset/common/js/bootstrap.bundle.min.js"></script>
+<script src="/asset/common/js/slick.min.js"></script>
+<script src="/asset/common/js/iziToast.min.js"></script>
+<script src="/asset/theme1/frontend/js/main.js"></script>
 
 <script>
     $(function () {

@@ -7,5 +7,4 @@ require_once (rootDir.'investment/breadcrumbs.php');
 require_once (rootDir.'investment/investment-plans.php');
 require_once (rootDir.'investment/modal.php');
 
-
 require_once (rootDir.'partials/footer.php');
