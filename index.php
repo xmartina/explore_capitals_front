@@ -1,5 +1,6 @@
 <?php
-ini_set('error_log', rootUrl.'error_log/home-error.log');
+ini_set('error_log', rootDir.'error_log/home-error.log');
+const pageName = "Home";
 require_once ('partials/header.php'); ?>
 
 
