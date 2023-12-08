@@ -10,7 +10,7 @@
 
         <div class="row justify-content-center">
             <div class="col-lg-12">
-                <form action="https://formsubmit.co/contact@explorecapitals.online" method="post" role="form" class="php ">
+                <form action="https://formsubmit.co/1527d1316aee1ae2642985845d871acf" method="post" role="form" class="php ">
                     <div class="row">
                         <div class="col-md-6 form-group">
                             <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required="">
