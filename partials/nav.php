@@ -15,7 +15,7 @@
                 <li class="<?php if ($topUrl == '/investment') { ?> active <?php } ?>"><a class="nav-link" href="/investment/plan.html">Investment plans</a>
                 </li>
 
-                <li><a class="nav-link" href="/about">About</a>
+                <li><a class="nav-link" href="/about"><?php echo $topUrl ?>About</a>
                 </li>
                 <li><a class="nav-link" href="contact.html">Contact</a>
                 </li>
