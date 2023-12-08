@@ -13,7 +13,7 @@
                 <li><a class="nav-link" href="investment/plan.html">Investment plans</a>
                 </li>
 
-                <li><a class="nav-link" href="about.html">About</a>
+                <li><a class="nav-link" href="/about">About</a>
                 </li>
                 <li><a class="nav-link" href="contact.html">Contact</a>
                 </li>
