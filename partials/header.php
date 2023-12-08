@@ -1,4 +1,4 @@
-<?php //require_once ('../include/config.php'); ?>
+<?php require_once ('../include/config.php'); ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -11,7 +11,7 @@
     <link rel="shortcut icon" type="image/png" href="/asset/front/img/favicon.png">
 
     <title>
-<!--        Home | --><?php //= siteName . "|" . siteTag ?>
+        Home | <?= siteName . "|" . siteTag ?>
     </title>
     <link rel="stylesheet" href="/asset/theme1/frontend/css/cookie.css">
     <link href="/asset/common/css/bootstrap.min.css" rel="stylesheet">
