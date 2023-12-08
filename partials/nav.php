@@ -19,7 +19,7 @@
                 </li>
                 <li class="<?php if ($topUrl == '/contact/') { ?> active <?php } ?>"><a class="nav-link" href="/contact">Contact</a>
                 </li>
-                <li class="<?php if ($topUrl == '/blog/') { ?> active <?php } ?>"><a class="nav-link" href="blogs.html">Blog</a></li>
+<!--                <li class="--><?php //if ($topUrl == '/blog/') { ?><!-- active --><?php //} ?><!--"><a class="nav-link" href="blogs.html">Blog</a></li>-->
 
 
                 <li class="d-md-block d-lg-none d-block ">
