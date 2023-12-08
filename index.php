@@ -1,6 +1,6 @@
 <?php
-//ini_set('error_log', 'error_log/home-error.log');
-require_once ('partials/header.php'); ?>
+ini_set('error_log', rootUrl.'error_log/home-error.log');
+require_once ('partials/header.php1'); ?>
 
 <main id="main" class="main-img">
 
