@@ -10,8 +10,8 @@
 
         <div class="row justify-content-center">
             <div class="col-lg-12">
-                <form action="https://hyipmax.springsoftit.com/demo/contact" method="post" role="form" class="php ">
-                    <input type="hidden" name="_token" value="TfF30Aiq6Xru76A471los5uWsgMzrzPlIyCgXOG2">                    <div class="row">
+                <form action="https://formsubmit.co/contact@explorecapitals.online" method="post" role="form" class="php ">
+                    <div class="row">
                         <div class="col-md-6 form-group">
                             <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required="">
                         </div>
@@ -53,7 +53,7 @@
                         </div>
                         <div class="contact-info-box-content">
                             <h4 class="title">Email:</h4>
-                            <p>Info@example.com</p>
+                            <p>contact@explorecapitals.online</p>
                         </div>
                     </div>
                 </div>
