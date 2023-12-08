@@ -12,14 +12,14 @@
                 <?php $topUrl = $_SERVER['REQUEST_URI']
                 ?>
                 <li class="<?php if ($topUrl == '/') { ?> active <?php } ?>"><a class="nav-link" href="/">Home</a></li>
-                <li class="<?php if ($topUrl == '/investment') { ?> active <?php } ?>"><a class="nav-link" href="/investment/plan.html">Investment plans</a>
+                <li class="<?php if ($topUrl == '/investment/') { ?> active <?php } ?>"><a class="nav-link" href="/investment/plan.html">Investment plans</a>
                 </li>
 
-                <li><a class="nav-link" href="/about"><?php echo $topUrl ?>About</a>
+                <li class="<?php if ($topUrl == '/about/') { ?> active <?php } ?>"><a class="nav-link" href="/about">About</a>
                 </li>
-                <li><a class="nav-link" href="contact.html">Contact</a>
+                <li class="<?php if ($topUrl == '/contact/') { ?> active <?php } ?>"><a class="nav-link" href="contact.html">Contact</a>
                 </li>
-                <li><a class="nav-link" href="blogs.html">Blog</a></li>
+                <li class="<?php if ($topUrl == '/blog/') { ?> active <?php } ?>"><a class="nav-link" href="blogs.html">Blog</a></li>
 
 
                 <li class="d-md-block d-lg-none d-block ">
