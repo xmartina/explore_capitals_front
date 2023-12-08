@@ -9,8 +9,10 @@
         </div>
         <nav id="navbar" class="navbar order-last order-lg-0">
             <ul>
-                <li class="active"><a class="nav-link" href="/">Home</a></li>
-                <li><a class="nav-link" href="/investment/plan.html">Investment plans</a>
+                <?php $topUrl = $_SERVER['REQUEST_URI']
+                ?>
+                <li class="<?php if ($topUrl = '/') { ?> active <?php } ?>"><a class="nav-link" href="/">Home</a></li>
+                <li class="<?php if ($topUrl = '/investment') { ?> active <?php } ?>"><a class="nav-link" href="/investment/plan.html">Investment plans</a>
                 </li>
 
                 <li><a class="nav-link" href="/about">About</a>
