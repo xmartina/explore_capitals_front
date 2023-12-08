@@ -10,7 +10,7 @@
         <nav id="navbar" class="navbar order-last order-lg-0">
             <ul>
                 <li class="active"><a class="nav-link" href="/">Home</a></li>
-                <li><a class="nav-link" href="investment/plan.html">Investment plans</a>
+                <li><a class="nav-link" href="/investment/plan.html">Investment plans</a>
                 </li>
 
                 <li><a class="nav-link" href="/about">About</a>
