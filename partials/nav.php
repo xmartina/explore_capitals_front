@@ -11,8 +11,8 @@
             <ul>
                 <?php $topUrl = $_SERVER['REQUEST_URI']
                 ?>
-                <li class="<?php if ($topUrl = '/') { ?> active <?php } ?>"><a class="nav-link" href="/">Home</a></li>
-                <li class="<?php if ($topUrl = '/investment') { ?> active <?php } ?>"><a class="nav-link" href="/investment/plan.html">Investment plans</a>
+                <li class="<?php if ($topUrl == '/') { ?> active <?php } ?>"><a class="nav-link" href="/">Home</a></li>
+                <li class="<?php if ($topUrl == '/investment') { ?> active <?php } ?>"><a class="nav-link" href="/investment/plan.html">Investment plans</a>
                 </li>
 
                 <li><a class="nav-link" href="/about">About</a>
