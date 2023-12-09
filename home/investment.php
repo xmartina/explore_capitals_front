@@ -32,10 +32,10 @@ $results = $stmt->fetchAll(PDO::FETCH_ASSOC);
 
                     <div class="invest-plan-middle">
                         <h5 class="invest-plan-min-max">
-                            Min $<?$row['min_deposit']?>
+                            Min $<?=$row['min_deposit']?>
                         </h5>
                         <h5 class="invest-plan-min-max">
-                            Min $<?$row['max_deposit']?>
+                            Min $<?=$row['max_deposit']?>
                         </h5>
                         <ul class="invest-plan-features">
                             <li>
