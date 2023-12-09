@@ -12,7 +12,7 @@ require_once ('/home/multistream6/domains/explorecapitals.online/public_html/inc
     <link rel="shortcut icon" type="image/png" href="/asset/front/img/favicon.png">
 
     <title>
-        <?=pageName . "|" . siteName . "|" . siteTag ?>
+        <?=pageName . " | " . siteName . " | " . siteTag ?>
     </title>
     <link rel="stylesheet" href="/asset/theme1/frontend/css/cookie.css">
     <link href="/asset/common/css/bootstrap.min.css" rel="stylesheet">
