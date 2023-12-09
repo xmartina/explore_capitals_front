@@ -35,6 +35,9 @@ $results = $stmt->fetchAll(PDO::FETCH_ASSOC);
                             Min $<?=number_format($row['min_deposit'])?>
                         </h5>
                         <h5 class="invest-plan-min-max">
+                            -
+                        </h5>
+                        <h5 class="invest-plan-min-max">
                             Max $<?=number_format($row['max_deposit'])?>
                         </h5>
                         <ul class="invest-plan-features">
