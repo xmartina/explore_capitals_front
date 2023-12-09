@@ -56,7 +56,7 @@
             <i class="bi bi-list mobile-nav-toggle"></i>
         </nav>
         <div class="header-right d-flex d-none  d-md-none d-lg-block">
-            <a href="login.html" class="sp_btn_border sp_btn_sm me-3">Login</a>
+            <a href="/login.html" class="sp_btn_border sp_btn_sm me-3">Login</a>
             <select class="changeLang" aria-label="Default select example">
                 <option value="ka">
                     Georgia
