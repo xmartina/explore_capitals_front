@@ -60,7 +60,7 @@ $results = $stmt->fetchAll(PDO::FETCH_ASSOC);
                             </ul>
                         </div>
                         <div class="invest-plan-action mt-3">
-                            <a class="sp_theme_btn w-100 mb-3" href="login.html">Invest now</a>
+                            <a class="sp_theme_btn w-100 mb-3" href="/login.html">Invest now</a>
 
                         </div>
                     </div>
