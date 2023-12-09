@@ -1,13 +1,13 @@
 <section class="about-section s-pt-100 s-pb-100 dark-bg">
     <div class="shape-el">
-        <img src="asset/theme1/images/about/flow-chart.png" alt="image">
+        <img src="/asset/theme1/images/about/flow-chart.png" alt="image">
     </div>
     <div class="container">
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="about-thumb">
                     <div class="about-thumb-inner">
-                        <img src="asset/theme1/images/about/6257a3187a4ca1649910552.png" alt="image">
+                        <img src="/asset/theme1/images/about/6257a3187a4ca1649910552.png" alt="image">
                         <div class="about-thumb-line about-thumb-line-one"></div>
                         <div class="about-thumb-line about-thumb-line-two"></div>
                     </div>

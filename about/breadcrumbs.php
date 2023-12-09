@@ -4,7 +4,7 @@
         <div class="d-flex justify-content-between align-items-center text-capitalize">
             <h2>About</h2>
             <ol>
-                <li><a href="index.htm">Home</a></li>
+                <li><a href="/index.htm">Home</a></li>
                 <li>About</li>
             </ol>
         </div>

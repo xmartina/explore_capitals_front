@@ -1,6 +1,6 @@
 <section class="subscribe-section">
     <div class="subscribe-el">
-        <img src="asset/theme1/images/elements/paper-plane.png" alt="image">
+        <img src="/asset/theme1/images/elements/paper-plane.png" alt="image">
     </div>
     <div class="container">
         <div class="row justify-content-center">
