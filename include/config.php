@@ -6,6 +6,7 @@ ini_set('log_errors', 1);
 const siteName = "Explore Capitals";
 const siteTag = "Best investment Option";
 const rootDir = "/home/multistream6/domains/explorecapitals.online/public_html/";
+require_once (rootDir.'include/support-plugin.php');
 
 
 $host = 'localhost'; // e.g., 'localhost'
