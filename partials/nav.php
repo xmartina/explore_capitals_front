@@ -23,7 +23,7 @@
 
 
                 <li class="d-md-block d-lg-none d-block ">
-                    <a class="nav-link" href="login.html">Login</a>
+                    <a class="nav-link" href="/login.html">Login</a>
                 </li>
 
 
