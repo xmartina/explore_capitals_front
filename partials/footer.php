@@ -15,7 +15,7 @@
                 </div>
 
                 <div class="col-lg-2 text-center">
-                    <a href="index.htm" class="footer-logo">
+                    <a href="/index.htm" class="footer-logo">
                         <img class="img-fluid rounded sm-device-img text-align" src="/asset/theme1/images/logo/logo.png"
                              width="100%" alt="pp">
                     </a>
@@ -49,9 +49,9 @@
             <div class="row gy-2">
                 <div class="col-lg-6">
                     <ul class="footer-inline-list justify-content-lg-start justify-content-center">
-                        <li><a href="index.htm">Home</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="/index.htm">Home</a></li>
+                        <li><a href="/about.html">About</a></li>
+                        <li><a href="/contact.html">Contact</a></li>
                     </ul>
                 </div>
                 <div class="col-lg-6 text-lg-end text-center">
