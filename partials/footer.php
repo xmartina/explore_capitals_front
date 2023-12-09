@@ -9,7 +9,7 @@
                             <a href="#0"><i class="fas fa-envelope"></i> <?= siteEmail?></a>
                         </li>
                         <li>
-                            <a href="#0"><i class="fas fa-phone"></i> +1 5589 55488 55s</a>
+                            <a href="#0"><i class="fas fa-phone"></i> <?= sitePhone?></a>
                         </li>
                     </ul>
                 </div>

@@ -5,6 +5,7 @@ ini_set('log_errors', 1);
 
 const siteName = "Explore Capitals";
 const siteEmail = "contact@explorecapitals.online";
+const sitePhone ="+1 (234) 456 7890";
 const siteTag = "Best investment Option";
 const rootDir = "/home/multistream6/domains/explorecapitals.online/public_html/";
 require_once (rootDir.'include/support-plugin.php');
