@@ -6,7 +6,7 @@
                 <div class="col-lg-5">
                     <ul class="footer-inline-list justify-content-lg-start justify-content-center">
                         <li>
-                            <a href="#0"><i class="fas fa-envelope"></i> Info@example.com</a>
+                            <a href="#0"><i class="fas fa-envelope"></i> <?= siteEmail?></a>
                         </li>
                         <li>
                             <a href="#0"><i class="fas fa-phone"></i> +1 5589 55488 55s</a>

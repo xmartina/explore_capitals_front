@@ -4,6 +4,7 @@ error_reporting(E_ALL);
 ini_set('log_errors', 1);
 
 const siteName = "Explore Capitals";
+const siteEmail = "contact@explorecapitals.online";
 const siteTag = "Best investment Option";
 const rootDir = "/home/multistream6/domains/explorecapitals.online/public_html/";
 require_once (rootDir.'include/support-plugin.php');
