@@ -56,7 +56,7 @@
                 </div>
                 <div class="col-lg-6 text-lg-end text-center">
                     <p class="mb-0">
-                        Copyright 2023 hyip max. all rights reserved.
+                        Copyright 2023 <?=siteName?>. all rights reserved.
                     </p>
                 </div>
             </div>

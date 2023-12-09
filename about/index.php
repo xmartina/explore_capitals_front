@@ -8,5 +8,4 @@ require_once (rootDir.'about/about-us.php');
 require_once (rootDir.'about/faq.php');
 require_once (rootDir.'about/testimonier.php');
 require_once (rootDir.'about/newslatter.php');
-
 require_once (rootDir.'partials/footer.php');
