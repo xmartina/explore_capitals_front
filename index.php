@@ -1,7 +1,19 @@
 <?php
 ini_set('error_log', rootDir.'error_log/home-error.log');
+
+
+require_once ('autoloader.php');
+
+Autoloader::register();
+
+// Now you can use your classes without manual includes
+
+
 const pageName = "Home";
-require_once ('partials/header.php'); ?>
+require_once ('partials/header.php');
+
+$bannerSubTitle = new bannerSubTitle($siteName);
+?>
 
 
     <?php
