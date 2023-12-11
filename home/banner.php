@@ -6,7 +6,6 @@
                 <h2 class="banner-title"> Got to the next level investing</h2>
                 <p><?php
                     $siteName = "Explore Capitals";
-
                     use contents\home\bannerSubTitle;
                     $bannerSubTitle = new bannerSubTitle($siteName);
                     echo $bannerSubTitle->output; ?></p>
