@@ -4,7 +4,12 @@
         <div class="row">
             <div class="col-xxl-6 col-xl-7 col-lg-8 text-lg-start text-center">
                 <h2 class="banner-title"> Got to the next level investing</h2>
-                <p><?php echo $bannerSubTitle->output; ?></p>
+                <p><?php
+                    $siteName = "Explore Capitals";
+
+                    use contents\home\bannerSubTitle;
+                    $bannerSubTitle = new bannerSubTitle($siteName);
+                    echo $bannerSubTitle->output; ?></p>
                 <div class="banner-btn-group justify-content-lg-start justify-content-center mt-4">
                     <a href="/investment/plan" class="sp_theme_btn">Get started</a>
                     <a href="/contact" class="sp_border_btn">Know more</a>
