@@ -12,7 +12,8 @@ Autoloader::register();
 const pageName = "Home";
 require_once ('partials/header.php');
 
-$bannerSubTitle = new contents\home\bannerSubTitle($siteName);
+use contents\home\bannerSubTitle;
+$bannerSubTitle = new bannerSubTitle($siteName);
 ?>
 
 

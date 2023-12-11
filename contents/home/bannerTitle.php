@@ -1,5 +1,5 @@
 <?php
-
+namespace contents\home;
 class bannerSubTitle
 {
     public function __construct($siteName){
