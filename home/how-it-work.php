@@ -31,8 +31,7 @@ $htw = new howItWork();
                     </div>
                     <div class="content">
                         <h3 class="title">Choose plan</h3>
-                        <p>Laboris Nisi Ut Aliquip Ex Ea Commodo Consequat. Duis Aute Irure Dolor In Reprehenderit
-                            In Voluptate Velit.</p>
+                        <p><?= $htw->h2; ?></p>
                     </div>
                 </div>
             </div>
@@ -43,8 +42,7 @@ $htw = new howItWork();
                     </div>
                     <div class="content">
                         <h3 class="title">Get profit</h3>
-                        <p>Laboris Nisi Ut Aliquip Ex Ea Commodo Consequat. Duis Aute Irure Dolor In Reprehenderit
-                            In Voluptate Velit.</p>
+                        <p><?= $htw->h3; ?></p>
                     </div>
                 </div>
             </div>
