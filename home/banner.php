@@ -5,7 +5,6 @@
             <div class="col-xxl-6 col-xl-7 col-lg-8 text-lg-start text-center">
                 <h2 class="banner-title"> Got to the next level investing</h2>
                 <p><?php
-                    $siteName = "Explore Capitals";
                     use contents\home\bannerSubTitle;
                     $bannerSubTitle = new bannerSubTitle($siteName);
                     echo $bannerSubTitle->output; ?></p>
