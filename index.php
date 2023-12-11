@@ -1,7 +1,7 @@
 <?php
 ini_set('error_log', rootDir.'error_log/home-error.log');
 
-
+require_once ('include/config.php');
 require_once ('autoloader.php');
 
 Autoloader::register();
