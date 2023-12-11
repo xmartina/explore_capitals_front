@@ -1,8 +1,8 @@
 <?php
 
-namespace contents;
+namespace contents\home;
 
-class base
+class homeBase
 {
     public $siteName = 'Explore Capitals';
 }

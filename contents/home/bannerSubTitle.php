@@ -1,8 +1,7 @@
 <?php
 namespace contents\home;
-use contents\base;
 
-class bannerSubTitle extends base
+class bannerSubTitle extends homeBase
 {
     public function __construct(){
         $siteName = $this->siteName;

@@ -1,3 +1,7 @@
+<?php
+use contents\home\howItWork;
+$htw = new howItWork();
+?>
 <section class="s-pt-100 s-pb-100">
     <div class="container">
         <div class="row justify-content-center">
@@ -16,8 +20,7 @@
                     </div>
                     <div class="content">
                         <h3 class="title">Create account</h3>
-                        <p>laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-                            in voluptate velit.</p>
+                        <p><?= $htw->h1; ?></p>
                     </div>
                 </div>
             </div>
