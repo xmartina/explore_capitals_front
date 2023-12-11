@@ -6,7 +6,7 @@
                 <h2 class="banner-title"> Got to the next level investing</h2>
                 <p><?php
                     use contents\home\bannerSubTitle;
-                    $bannerSubTitle = new bannerSubTitle($siteName);
+                    $bannerSubTitle = new bannerSubTitle();
                     echo $bannerSubTitle->output; ?></p>
                 <div class="banner-btn-group justify-content-lg-start justify-content-center mt-4">
                     <a href="/investment/plan" class="sp_theme_btn">Get started</a>
