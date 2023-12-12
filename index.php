@@ -26,7 +26,7 @@ require_once ('partials/header.php');
         require_once ('home/about-us.php');
         require_once ('home/why-choose-us.php');
         require_once ('home/faq.php');
-        require_once ('home/top-investor.php');
+//        require_once ('home/top-investor.php');
         require_once ('home/recent-blog.php');
         require_once ('home/testimonier.php');
         require_once ('home/recent-blog.php');
