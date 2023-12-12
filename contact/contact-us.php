@@ -38,7 +38,7 @@
 
         <div class="contact-info-wrapper mt-5">
             <div class="row gy-4">
-                <div class="col-lg-4">
+                <div class="col-lg-6">
                     <div class="contact-info-box">
                         <div class="contact-info-box-icon">
                             <i class="fas fa-map-marked-alt"></i>
@@ -49,7 +49,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <div class="col-lg-6">
                     <div class="contact-info-box">
                         <div class="contact-info-box-icon">
                             <i class="far fa-envelope"></i>
@@ -60,7 +60,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
+                <!--<div class="col-lg-4">
                     <div class="contact-info-box">
                         <div class="contact-info-box-icon">
                             <i class="fas fa-phone"></i>
@@ -70,7 +70,7 @@
                             <p>+1 5589 55488 55s</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
         </div>
     </div>
