@@ -24,19 +24,19 @@
                 <div class="col-lg-5">
                     <ul class="social-links justify-content-lg-end justify-content-center">
                         <li>
-                            <a href="javascript:void(0);" target="_blank" class="twitter"><i
+                            <a href="javascript:void(0);" class="twitter"><i
                                     class="fab fa-facebook-f"></i></a>
                         </li>
                         <li>
-                            <a href="javascript:void(0);" target="_blank" class="twitter"><i
+                            <a href="javascript:void(0);" class="twitter"><i
                                     class="fab fa-linkedin-in"></i></a>
                         </li>
                         <li>
-                            <a href="javascript:void(0);" target="_blank" class="twitter"><i
+                            <a href="javascript:void(0);" class="twitter"><i
                                     class="fab fa-twitter"></i></a>
                         </li>
                         <li>
-                            <a href="javascript:void(0);" target="_blank" class="twitter"><i class="fab fa-pinterest-p"></i></a>
+                            <a href="javascript:void(0);" class="twitter"><i class="fab fa-pinterest-p"></i></a>
                         </li>
                     </ul>
                 </div>
