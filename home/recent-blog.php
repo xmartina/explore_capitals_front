@@ -20,7 +20,7 @@ $recentBlog = new recentBlog();
                     </div>
                     <div class="/blog-box-content">
                         <span class="/blog-category">Bitcoin</span>
-                        <h3 class="title"><a href="/blog/31/similique-totam-harum-rerum.html"><?=$recentBlog->bh1?></a>
+                        <h3 class="title"><a href="#"><?=$recentBlog->bh1?></a>
                         </h3>
                         <ul class="/blog-meta">
                             <li><i class="fas fa-clock"></i> 1 year ago</li>
@@ -37,7 +37,7 @@ $recentBlog = new recentBlog();
                     </div>
                     <div class="/blog-box-content">
                         <span class="/blog-category">Crypto</span>
-                        <h3 class="title"><a href="/blog/39/facere-asperiores-odio-id-porro.html"><?=$recentBlog->bh2?></a>
+                        <h3 class="title"><a href="#"><?=$recentBlog->bh2?></a>
                         </h3>
                         <ul class="/blog-meta">
                             <li><i class="fas fa-clock"></i> 1 year ago</li>
@@ -54,7 +54,7 @@ $recentBlog = new recentBlog();
                     </div>
                     <div class="/blog-box-content">
                         <span class="/blog-category">Coinbase</span>
-                        <h3 class="title"><a href="/blog/40/eligendi-distinctio-molestias-ducimus.html"><?=$recentBlog->bh3?></a>
+                        <h3 class="title"><a href="#"><?=$recentBlog->bh3?></a>
                         </h3>
                         <ul class="/blog-meta">
                             <li><i class="fas fa-clock"></i> 1 year ago</li>
