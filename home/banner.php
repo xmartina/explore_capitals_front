@@ -10,7 +10,7 @@
                     echo $bannerSubTitle->output; ?></p>
                 <div class="banner-btn-group justify-content-lg-start justify-content-center mt-4">
                     <a href="/investment/plan" class="sp_theme_btn">Get started</a>
-                    <a href="/contact" class="sp_border_btn">Know more</a>
+                    <a href="/about" class="sp_border_btn">Know more</a>
                 </div>
                 <h5 class="mt-5">Trusted By More Than 30,000+ Users</h5>
                 <div class="row mt-4 overview-wrapper">
