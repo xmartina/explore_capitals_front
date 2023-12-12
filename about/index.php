@@ -1,6 +1,6 @@
 <?php
-require_once ('include/config.php');
-require_once ('autoloader.php');
+require_once ('./include/config.php');
+require_once ('./autoloader.php');
 
 Autoloader::register();
 const pageName = "About Us";
