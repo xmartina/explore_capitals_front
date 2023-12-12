@@ -1,3 +1,7 @@
+<?php
+use contents\home\whyChooseUs;
+$whychus = new whyChooseUs();
+?>
 <section class="s-pt-100 s-pb-100">
     <div class="container">
 
@@ -24,9 +28,8 @@
                         </div>
                     </div>
                     <div class="content">
-                        <h3 class="title mb-3">Registered company</h3>
-                        <p class="mb-0">Lorem ipsum, dolor sit amet consectetur pisicing elit. a rem exercitationem
-                            adipisci assumenda nam dolorum aspernatur repellendus natus.</p>
+                        <h3 class="title mb-3"><?= $whychus->egh; ?></h3>
+                        <p class="mb-0"><?= $whychus->egc; ?></p>
                     </div>
                 </div>
             </div>
@@ -44,9 +47,8 @@
                         </div>
                     </div>
                     <div class="content">
-                        <h3 class="title mb-3">Expert management</h3>
-                        <p class="mb-0">Lorem ipsum, dolor sit amet consectetur pisicing elit. a rem exercitationem
-                            adipisci assumenda nam dolorum aspernatur repellendus natus.</p>
+                        <h3 class="title mb-3"><?= $whychus->trh; ?></h3>
+                        <p class="mb-0"><?= $whychus->trc; ?></p>
                     </div>
                 </div>
             </div>
@@ -64,9 +66,8 @@
                         </div>
                     </div>
                     <div class="content">
-                        <h3 class="title mb-3">Verified security</h3>
-                        <p class="mb-0">Lorem ipsum, dolor sit amet consectetur pisicing elit. a rem exercitationem
-                            adipisci assumenda nam dolorum aspernatur repellendus natus.</p>
+                        <h3 class="title mb-3"><?= $whychus->dph; ?></h3>
+                        <p class="mb-0"><?= $whychus->dpc; ?></p>
                     </div>
                 </div>
             </div>
@@ -84,9 +85,8 @@
                         </div>
                     </div>
                     <div class="content">
-                        <h3 class="title mb-3">Instant withdrawal</h3>
-                        <p class="mb-0">Lorem ipsum, dolor sit amet consectetur pisicing elit. a rem exercitationem
-                            adipisci assumenda nam dolorum aspernatur repellendus natus.</p>
+                        <h3 class="title mb-3"><?= $whychus->cth; ?></h3>
+                        <p class="mb-0"><?= $whychus->ctc; ?></p>
                     </div>
                 </div>
             </div>
@@ -104,9 +104,8 @@
                         </div>
                     </div>
                     <div class="content">
-                        <h3 class="title mb-3">Registered company</h3>
-                        <p class="mb-0">Lorem ipsum, dolor sit amet consectetur pisicing elit. a rem exercitationem
-                            adipisci assumenda nam dolorum aspernatur repellendus natus.</p>
+                        <h3 class="title mb-3"><?= $whychus->smh; ?></h3>
+                        <p class="mb-0"><?= $whychus->smc; ?></p>
                     </div>
                 </div>
             </div>
@@ -124,9 +123,8 @@
                         </div>
                     </div>
                     <div class="content">
-                        <h3 class="title mb-3">Secure investment</h3>
-                        <p class="mb-0">Lorem ipsum, dolor sit amet consectetur pisicing elit. a rem exercitationem
-                            adipisci assumenda nam dolorum aspernatur repellendus natus</p>
+                        <h3 class="title mb-3"><?= $whychus->psh; ?></h3>
+                        <p class="mb-0"><?= $whychus->psc; ?></p>
                     </div>
                 </div>
             </div>
