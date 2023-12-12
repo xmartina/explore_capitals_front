@@ -14,13 +14,14 @@
                     <div class="content">
                         <p>
                             <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                            Exceptional Returns! Their diverse investment plans helped me achieve financial goals with ease.
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
                     <div class="client">
                         <div class="thumb">
-                            <img src="/asset/theme1/images/testimonial/61fd4cd9cd3bb1643990233.jpg" class="testimonial-img" alt="">
+                            <img src="/asset/theme1/images/testimonial/61fd4cd9cd3bb1643990233.jpg"
+                                 class="testimonial-img" alt="">
                         </div>
                         <h3 class="title">Jhon Doe</h3>
                         <span class="designation">Ceo &amp;amp; Founder</span>
@@ -33,13 +34,14 @@
                     <div class="content">
                         <p>
                             <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                            Transparent and Secure. I trust them for consistent profits and top-notch security measures
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
                     <div class="client">
                         <div class="thumb">
-                            <img src="/asset/theme1/images/testimonial/61fd4de828e951643990504.jpg" class="testimonial-img" alt="">
+                            <img src="/asset/theme1/images/testimonial/61fd4de828e951643990504.jpg"
+                                 class="testimonial-img" alt="">
                         </div>
                         <h3 class="title">Samili Begum</h3>
                         <span class="designation">Store Owner</span>
@@ -52,13 +54,14 @@
                     <div class="content">
                         <p>
                             <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                            Responsive Support. Quick assistance and personalized guidance make investing a breeze.
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
                     <div class="client">
                         <div class="thumb">
-                            <img src="/asset/theme1/images/testimonial/61fd4e4f859dd1643990607.jpg" class="testimonial-img" alt="">
+                            <img src="/asset/theme1/images/testimonial/61fd4e4f859dd1643990607.jpg"
+                                 class="testimonial-img" alt="">
                         </div>
                         <h3 class="title">Jamal Akter</h3>
                         <span class="designation">Freelancer</span>
@@ -71,13 +74,14 @@
                     <div class="content">
                         <p>
                             <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                            Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+                            Innovative Platform. The user-friendly interface and cutting-edge technology set them apart. Highly recommended!
                             <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                         </p>
                     </div>
                     <div class="client">
                         <div class="thumb">
-                            <img src="/asset/theme1/images/testimonial/6253da0b3e71e1649662475.jpg" class="testimonial-img" alt="">
+                            <img src="/asset/theme1/images/testimonial/6253da0b3e71e1649662475.jpg"
+                                 class="testimonial-img" alt="">
                         </div>
                         <h3 class="title">Jamal Akter</h3>
                         <span class="designation">Freelancer</span>
