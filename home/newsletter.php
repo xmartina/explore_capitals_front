@@ -7,7 +7,7 @@
             <div class="col-lg-6 text-center">
                 <div class="site-header">
                     <h2 class="site-title">Our newsletter</h2>
-                    <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+                    <p>Navigating News with Ease: Subscribe for Curated Updates and In-Depth Analysis</p>
                 </div>
             </div>
         </div>
