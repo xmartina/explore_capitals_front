@@ -45,7 +45,7 @@
                         </div>
                         <div class="contact-info-box-content">
                             <h4 class="title">Location:</h4>
-                            <p>A108 adam street, new york, ny 535022</p>
+                            <p>1653 Feathers Hooves Drive, Bethpage, 11714, New York.</p>
                         </div>
                     </div>
                 </div>
