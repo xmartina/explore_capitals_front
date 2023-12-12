@@ -1,10 +1,10 @@
 <?php
-require_once ('./include/config.php');
-require_once ('./autoloader.php');
-
-Autoloader::register();
 const pageName = "About Us";
 const rootDir = "/home/multistream6/domains/explorecapitals.online/public_html/";
+require_once (rootDir.'include/config.php');
+require_once (rootDir.'autoloader.php');
+
+Autoloader::register();
 require_once (rootDir.'include/config.php');
 require_once (rootDir.'partials/header.php');
 require_once (rootDir.'about/breadcrumbs.php');
